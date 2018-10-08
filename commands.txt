@@ -1,0 +1,9 @@
+För att lägga till: git add .
+
+Checka status: git status
+
+Skriva en kommentar för Github: git commit -m "hej!"
+
+Trycka upp (push) till projektet: git push origin master //"origin är URL för projektet"
+
+Uppdatera aktuell projekt mapp på min dator: git pull/fetch origin (+master)
